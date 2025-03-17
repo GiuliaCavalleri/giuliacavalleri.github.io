@@ -1,0 +1,6 @@
+Vai nella cartella sito web e apri il file che vuoi modificare (tipicamente index, dove ci sono i contenuti)
+Modifica e salva
+Se devi cambiare il cv fallo (con un file che si chiama nello stesso modo)
+Vai su GitHub Desktop, che avrà capito che ci sono stati cambiamenti
+In basso a sx descrivi quello che hai fatto
+Clicca Commit to main e poi Push origin
